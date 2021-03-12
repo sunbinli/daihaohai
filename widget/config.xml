@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><widget id="A6160067175277" security="false" version="1.1.0">
-<name>商家版</name>
-<description>商家版</description>
-       <author email="" href="https://we7.daihaohai.com">商家版</author>       <!--企鹅:382178535提供支持-->
+<name>商家端</name>
+<description>商家端</description>
+       <author email="" href="https://we7.daihaohai.com">商家端</author>       <!--企鹅:382178535提供支持-->
        <content src="index.html"/>
        <preference name="windowBackground" value=""/>
        <preference name="autoLaunch" value="true"/>
